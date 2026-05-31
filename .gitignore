@@ -1,0 +1,20 @@
+# Data (1.5GB, publicly available on Kaggle — not committed)
+*.csv
+*.rdata
+*.parquet
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.virtual_documents/
+
+# Env
+.venv/
+venv/
+*.zip
+
+# Jupyter scratch
+Untitled*.ipynb
+anaconda_projects/
